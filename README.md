@@ -8,7 +8,7 @@ This course helped me understand how reinforcement learning and neural networks 
 
 As a computer scientist, I’ve learned to break problems into smaller parts. When something didn’t work, I used debugging tools, printed outputs, and tested small pieces at a time until I figured it out. That mindset helped me stay focused and not get overwhelmed when tuning my model or tweaking reward functions.
 
-I’ve also learned that I have a responsibility to think about how my code affects people. With intelligent systems especially, it’s important to make sure the decisions being made are fair, unbiased, and secure. If this agent were used in something real—like finance or healthcare—it would be my job to protect users and act responsibly.
+I’ve also learned that I have a responsibility to think about how my code affects people. With intelligent systems especially, it’s important to make sure the decisions being made are fair, unbiased, and secure. If this agent were used in something real, like finance or healthcare, it would be my job to protect users and act responsibly.
 
 This was one of my favorite projects because I could actually see the agent learn over time. It felt like something real, and it showed how much I’ve grown with Python, Jupyter, and machine learning tools.
 
